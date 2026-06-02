@@ -22,7 +22,7 @@ Simply append the script to the bottom of your file, save it with the `.html` ex
 Add the following script tag at the very end of your HTML file:
 
 ```html
-<script src="https://raw.githubusercontent.com/necdetuygur/md2html_script/refs/heads/master/md2html_script.js"></script>
+<script src="https://necdetuygur.github.io/md2html_script/md2html_script.js"></script>
 ```
 
 ---
@@ -58,7 +58,7 @@ Some more content...
 Then append the script tag at the bottom:
 
 ```html
-<script src="https://raw.githubusercontent.com/necdetuygur/md2html_script/refs/heads/master/md2html_script.js"></script>
+<script src="https://necdetuygur.github.io/md2html_script/md2html_script.js"></script>
 ```
 
 Open the file in your browser.
@@ -140,7 +140,7 @@ This document is written almost entirely in Markdown.
 console.log("Hello from md2html_script");
 ````
 
-<script src="https://raw.githubusercontent.com/necdetuygur/md2html_script/refs/heads/master/md2html_script.js"></script>
+<script src="https://necdetuygur.github.io/md2html_script/md2html_script.js"></script>
 
 </body>
 </html>
